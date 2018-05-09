@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Heard a lot about me? Oh well. Don't worry, it can't all be true... 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This man whose name only looks hard to say, is a creative web developer, consultant, blogger, hiker and father. He is a puppet master of code, bending the backend code to his will in elegant and ingenious fashion.
+He is a die hard fan but don't hold this against him because, well, he is still a team player and , umm, poutine.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Under construction
