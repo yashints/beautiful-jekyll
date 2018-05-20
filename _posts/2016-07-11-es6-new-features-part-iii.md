@@ -8,9 +8,11 @@ categories: [ES6, JS]
 tags: [class, ES6, module]
 image: /img/posts/es6.png
 ---
+This is the third article in ES6 new features series.
+[Part I](/2016-07-07-es6-new-features-part-i/)
+[Part II](/2016-07-07-es6-new-features-part-ii/)
 
 ### 9. Classes in ES6
-
 
 In many ways, they are a sham. Javascript classes don’t really exist other than for cosmetic reasons. They are syntactic sugar over existing Javascript prototypical inheritance. The reason for this was to ensure backwards compatibility, classes merely give you a cleaner way to organise your code.
 

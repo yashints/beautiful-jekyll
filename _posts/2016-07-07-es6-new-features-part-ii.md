@@ -8,6 +8,9 @@ categories: [ES6, JS]
 tags: [arrow functions, const, ES6, let, promises]
 image: /img/posts/es6.png
 ---
+This is the second article in ES6 new features series.
+[Part I](/2016-07-07-es6-new-features-part-i/)
+[Part III](/2016-07-07-es6-new-features-part-iii/)
 
 ### 6. Arrow Functions in ES6
 

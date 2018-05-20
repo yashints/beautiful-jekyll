@@ -8,6 +8,9 @@ categories: [ES6, JS]
 tags: [ES6, features]
 image: /img/posts/es6.png
 ---
+This is the third article in ES6 new features series.
+[Part II](/2016-07-07-es6-new-features-part-ii/)
+[Part III](/2016-07-07-es6-new-features-part-iii/)
 
 Well for a long time I wanted to write a blog post about migrating Angular 1.x to 2, however, before doing so I thought it is really helpful to write about some prerequisites of that.
 
