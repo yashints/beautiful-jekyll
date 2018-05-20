@@ -12,10 +12,10 @@ input.gsc-input,
   line-height: normal;
 }
 
-form.gsc-search-box table tr, td {
+form.gsc-search-box table tr, form.gsc-search-box table td {
   border: none;
 }
 
 .gsc-search-box-tools .gsc-search-box .gsc-input {
-  padding: 8px;
+  padding: 8px !important;
 }
