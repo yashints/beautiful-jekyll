@@ -11,3 +11,11 @@ input.gsc-input,
   box-sizing: content-box; 
   line-height: normal;
 }
+
+form.gsc-search-box table tr, td {
+  border: none;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+  padding: 8px;
+}
