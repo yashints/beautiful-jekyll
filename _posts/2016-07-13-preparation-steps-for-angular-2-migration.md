@@ -6,7 +6,7 @@ author: Yaser Adel Mehraban
 comments: true
 categories: [Angular, JS, AngularJS]
 tags: [angular, angular 2, component, directive, migration, systemjs, typescript, webpack]
-bigimg: /img/posts/angularmigrate.png
+bigimg: /img/posts/angularmigrate.jpg
 ---
 
 I've seen many ways to shape an Angular app in different companies. This means when we try to upgrade to Angular 2 some of them might be easy to migrate compared to others. So why we don't try to write some code that is easy to migrate even before trying to upgrade??? 
