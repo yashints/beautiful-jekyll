@@ -24,7 +24,7 @@ description: This is Yaser Adel Mehraban personal website and blog.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "/"
+  Blog: ""
   Testimonials: "testimonials"
   Contact Me: "contactme"
 
