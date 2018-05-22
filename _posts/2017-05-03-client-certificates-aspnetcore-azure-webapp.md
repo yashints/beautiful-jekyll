@@ -44,26 +44,26 @@ Once you've done this, it is only the matter of loading the certificate from the
 ```cs
 private HttpClient CreateHttpClient(IConfiguration configuration)
 {
-    var handler = new HttpClientHandler();
-    httpClient = new HttpClient(handler);
-
-    X509Store certStore = new X509Store(StoreName.My, StoreLocation.CurrentUser);
-    certStore.Open(OpenFlags.ReadOnly);
-    X509Certificate2Collection certCollection = certStore.Certificates.Find(
-                                X509FindType.FindByThumbprint,
-                                configuration.GetValue&lt;string&gt;("CertificateThumbprint"),
-                                false);
-    // Get the first cert with the thumbprint
-    if (certCollection.Count &gt; 0)
-    {
+  var handler = new HttpClientHandler();
+  httpClient = new HttpClient(handler);
+ 
+  X509Store certStore = new X509Store(StoreName.My, StoreLocation.CurrentUser);
+  certStore.Open(OpenFlags.ReadOnly);
+  X509Certificate2Collection certCollection = certStore.Certificates.Find(
+                             X509FindType.FindByThumbprint,
+                             configuration.GetValue<string>("CertificateThumbprint"),
+                             false);
+  // Get the first cert with the thumbprint
+  if (certCollection.Count > 0)
+  {
     X509Certificate2 cert = certCollection[0];
     handler.ClientCertificateOptions = ClientCertificateOption.Manual;
     handler.SslProtocols = SslProtocols.Tls12;
     handler.ClientCertificates.Add(cert);    
-    }
-
-    certStore.Close();
-    return httpClient;
+  }
+ 
+  certStore.Close();
+  return httpClient;
 }
 ```
 
