@@ -66,6 +66,7 @@ private HttpClient CreateHttpClient(IConfiguration configuration)
     return httpClient;
 }
 ```
+
 {: .box-note}
 **Note:** this code snippet is just a sample and the intention is only to show you how to load a certificate, moreover, it is not a best practice.
     
