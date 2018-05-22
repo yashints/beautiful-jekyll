@@ -6,7 +6,7 @@ author: Yaser Adel Mehraban
 comments: true
 categories: [development, improvement]
 tags: [pet project, self improve, side project, software development]
-image: img/posts/petproject.png
+image: /img/posts/petproject.png
 ---
 
 For us (developers) the most irritating and cumbersome process is to keep ourselves up to date, since every 2 second a new language/tool/technology is born out of nowhere. We know that we have to keep up with our peers if we want to stay in loop and don't get left behind.
