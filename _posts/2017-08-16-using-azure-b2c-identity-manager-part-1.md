@@ -10,7 +10,7 @@ image: /img/posts/b2c.png
 ---
 This article is one of the two part series I wrote on how to use Azure B2C as your identity manager.
 
-You can find [Read part 2 here.](/2017-08-21-using-azure-b2c-identity-manager-part-2/)
+You can find [part 2 here.](/2017-08-21-using-azure-b2c-identity-manager-part-2/)
 
 [Full source code on Github.](https://github.com/YAdelMehraban/Angular4AzureB2C)
 
