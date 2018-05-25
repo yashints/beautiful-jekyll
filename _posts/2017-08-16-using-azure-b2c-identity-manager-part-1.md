@@ -12,7 +12,7 @@ This article is one of the two part series I wrote on how to use Azure B2C as yo
 
 You can find [part 2 here.](/2017-08-21-using-azure-b2c-identity-manager-part-2/)
 
-[Full source code on Github.](https://github.com/YAdelMehraban/Angular4AzureB2C)
+[Full source code on Github.](https://github.com/yashints/Angular4AzureB2C)
 
 A while ago I was engaged in a front end project using Asp.Net Core and Angular 2. At some point we decided to integrate our application with Azure B2C as our identity management aka IDM.
 

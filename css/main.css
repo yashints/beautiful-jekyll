@@ -376,18 +376,15 @@ footer .theme-by {
 }
 .post-image {
   float: right;
-  height: 192px;
-  width: 192px;
+  width: 120px;
   margin-top: -35px;
-  filter: grayscale(90%);
+  filter: grayscale(60%);
 }
 .post-image:hover {
   filter: grayscale(0%);
 }
-.post-image img {
-  border-radius: 100px;
-  height: 192px;
-  width: 192px;
+.post-image img {    
+  width: 120px;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -432,8 +429,7 @@ footer .theme-by {
 }
 
 @media only screen and (max-width: 500px) {
-  .post-image, .post-image img {
-    height: 100px;
+  .post-image, .post-image img {    
     width: 100px;
   }
 

@@ -12,7 +12,7 @@ This article is one of the two part series I wrote on how to use Azure B2C as yo
 
 You can find [part 1 here.](/2017-08-16-using-azure-b2c-identity-manager-part-1/)
 
-[Full source code on Github.](https://github.com/YAdelMehraban/Angular4AzureB2C)
+[Full source code on Github.](https://github.com/yashints/Angular4AzureB2C)
 
 ## Recap
 
@@ -233,7 +233,7 @@ export class B2CConfigModule { }
 
 Now let's create the services we need. We will need to services, one which plays the route guard role and the other for authentication. Since I will be using [oidc-client](https://github.com/IdentityModel/oidc-client-js), I will use their Authentication service code. So here is our Authentication service which I've created inside services folder.
     
-Since the code is a bit long I won't show the code here but don't worry, a fully working version is to be found on my GitHub [repository](https://github.com/YAdelMehraban/Angular4AzureB2C).
+Since the code is a bit long I won't show the code here but don't worry, a fully working version is to be found on my GitHub [repository](https://github.com/yashints/Angular4AzureB2C).
     
 However to demonstrate how you should use the above config, I'll go through the necessary bits:
 
