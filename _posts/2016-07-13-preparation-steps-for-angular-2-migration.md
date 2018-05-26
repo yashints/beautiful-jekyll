@@ -99,8 +99,8 @@ export const myDetail = {
     getCreditCardInfo: '&'
   },
   template: `
-    <h2>My name is: {{$ctrl.myInfo.myName}}</h2>
-    <button ng-click="$ctrl.onClick()">Get card info</button>
+    <h2>My name is: {{ ctrl.myInfo.myName }}</h2>
+    <button ng-click="ctrl.onClick()">Get card info</button>
   `,
   controller: function() {
     this.onClick = () => {
@@ -109,6 +109,9 @@ export const myDetail = {
   }
 };
 ```
+
+{: .box-note}
+**Note:** I had to remove the $ from above code because of mark down rendering errors.
   
 ## Upgrade using the given Adapter
     

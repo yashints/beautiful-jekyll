@@ -32,6 +32,13 @@ layout: base
       {% endif %}
 
       <article role="main" class="blog-post">
+        {% if page.image %}
+        <div class="text-center">
+            <img alt="Post image" class="post-image-original" src="{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" />
+        </div>
+        
+        {% endif %}
+
         {{ content }}
       </article>
 
