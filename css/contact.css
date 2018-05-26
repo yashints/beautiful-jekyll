@@ -1,3 +1,9 @@
 .contact-me .channel {
   margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.contact-me .channel .desc {
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
 }
