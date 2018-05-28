@@ -708,7 +708,9 @@ td.code pre {
 td.gutter {
   padding-top: 3px;
 }
-
+.highlight .err {
+  border: none;
+}
 /* --- Social media sharing section --- */
 
 #social-share-section {
