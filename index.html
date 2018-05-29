@@ -22,7 +22,8 @@ use-site-title: true
 
     <p class="post-meta">
       <i class="fa fa-calendar-o" aria-hidden="true"></i>
-      Posted on {{ page.date | date: "%B %-d, %Y" }}
+      <span> Posted on {{ post.date | date: "%B %-d, %Y" }}</span>
+      {% include read_time.html content=post.content %} 
     </p>
 
     <div class="post-entry-container">
