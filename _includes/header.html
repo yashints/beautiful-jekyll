@@ -35,9 +35,12 @@
 			{% endif %}
 		  {% endif %}
 		  
-		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
+      {% if include.type == "post" %}
+      <i class="fa fa-calendar-o" aria-hidden="true"></i>
+      <span class="post-meta"> Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+      {% include read_time.html %} 
+      {% endif %}
+     
         </div>
       </div>
     </div>
@@ -61,8 +64,11 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
+      <i class="fa fa-calendar-o" aria-hidden="true"></i>
+      <span class="post-meta"> Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+      {% include read_time.html %}
+      {% endif %}
+      
         </div>
       </div>
     </div>
