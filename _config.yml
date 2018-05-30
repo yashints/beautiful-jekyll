@@ -140,7 +140,7 @@ title-separator: "-"
 timezone: " Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5
 
 kramdown:

@@ -16,8 +16,12 @@
       href="#"
       onclick="MyWindow=window.open('https://twitter.com//intent/tweet?text=\{{ page.title | url_encode }} by @{{site.social-network-links.twitter}} {{site.url}}{{page.url}}', 'MyWindow', width=600,height=300); return false;"
       class="share-icon" title="Share on Twitter">
-      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
-      <span class="sr-only">Twitter</span>
+      
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        <span class="sr-only">Twitter</span>
+      </span>
     </a>
   {% endif %}
 
@@ -35,8 +39,12 @@
     <a href="#"
       onClick="MyWindow=window.open('https://plus.google.com/share?url={{ site.url }}{{ page.url }}', 'MyWindow', width=600,height=300); return false;"
       class="share-icon" title="Share on Google+">
-      <span class="fa fa-fw fa-google-plus" aria-hidden="true"></span>
-      <span class="sr-only">Google+</span>
+      
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+        <span class="sr-only">Google+</span>
+      </span>
     </a>
   {% endif %}
 
@@ -45,8 +53,12 @@
     <a href="#"
       onclick="MyWindow=window.open('https://www.linkedin.com/shareArticle?title={{ page.title | url_encode }} by @{{ site.social-network-links.linkedin }}&url={{ site.url }}{{ page.url }}', 'MyWindow', width=600,height=300); return false;"
       class="share-icon" title="Share on LinkedIn">
-      <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
-      <span class="sr-only">LinkedIn</span>
+      
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+        <span class="sr-only">LinkedIn</span>
+      </span>
     </a>
   {% endif %}
 

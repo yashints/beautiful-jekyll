@@ -721,33 +721,31 @@ td.gutter {
   margin-bottom: 25px;
 }
 
-a.share-icon {
-  color: #404040;
+#social-share-section a.share-icon {
+  color: #fff;
+}
+
+#social-share-section .fa-circle {
+  color: #ddd;
+}
+
+#social-share-section .fa-inverse {
+  color: #000;
 }
 
 a:hover {
   text-decoration: none;
 }
 
-.fa-twitter, .fa-google-plus, .fa-linkedin {
-  display: inline-block;
-  border-radius: 50px;
-  box-shadow: 1px 1px 5px #888;
-  padding: 10px;
-  margin: 5px;
-  width: auto;
-  font-size: 3rem;
-}
-
-.fa-twitter:hover {
+#social-share-section .fa-twitter:hover {
   color: #1b95e0;  
 }
 
-.fa-google-plus:hover {
+#social-share-section .fa-google-plus:hover {
   color: #db4437;  
 }
 
-.fa-linkedin:hover {
+#social-share-section .fa-linkedin:hover {
   color: #0077b5;  
 }
 
