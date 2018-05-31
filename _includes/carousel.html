@@ -1,0 +1,25 @@
+<div class="testmonials center" id="testmonials">
+  <div class="">
+    <owl-carousel class="owl-theme row sliding owl-carousel owl-loaded owl-drag">
+      {% for testimony in include.data %}
+      <div class="client text-center item">
+        <h3>- {{testimony.name}} -</h3>
+        <p>{{testimony.position}}</p>
+        <img src="{{testimony.photo}}" class="owl-item-img" width="60" height="60" />
+        <div class="stars">
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span>
+        </div>
+        <div class="opinion">
+          <i class="fa fa-quote-left"></i>
+          <p>{{testimony.comment}}</p>
+          <i class="fa fa-quote-right reversed"></i>
+        </div>
+      </div>
+      {% endfor %}
+    </owl-carousel>
+  </div>
+</div>

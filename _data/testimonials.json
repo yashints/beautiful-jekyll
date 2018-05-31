@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Vahid Ghattavi",
+    "position": "Senior Consultant at RXP Services Limited",
+    "comment": "Yaser is a very sharp individual with a keen sense of attention to details. He has a great expertise over security issues and very nice to work with. Having him was an asset to the team I used to manage.",
+    "photo": "/img/testimonial/1.jpg"
+  },
+  {
+    "name": "Sharooz Mohaghegh",
+    "position": "Software Development Manager at Webstercare",
+    "comment": "It is a pleasure to recommend Yaser Adel Mehraban. We worked together at DML on a web based smart card management systems and SIM based applications (STK). He has done great work in a timely matter. Besides, he has the drive and energy necessary and extensive knowledge in smart acrds, security, C#, and java. I recommend Yaser with enthusiasm!",
+    "photo": "/img/testimonial/2.jpg"
+  },
+  {
+    "name": "Mehdi Khaleghian",
+    "position": "Senior .Net Developer at Readify",
+    "comment": "Yaser is very informative and educated. He knows what to do to get the job done. Also, he is a talented team leader.",
+    "photo": "/img/testimonial/3.jpg"
+  },
+  {
+    "name": "Dr Mahdi Shajari",
+    "position": "Assistant Professor at Amirkabir University of Technology",
+    "comment": "Yaser is technically extremely solid, and he has a very deep understanding of many different aspects of smartcard technology, computer software and security. In several meetings we have had recently, I found him on the edge of smartcard, computer security and software technologies.",
+    "photo": "/img/testimonial/4.jpg"
+  }
+]

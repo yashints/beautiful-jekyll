@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Search yashints.github.io"
+title: "Search the entire site"
 css: "/css/search.css"
 ---
 
