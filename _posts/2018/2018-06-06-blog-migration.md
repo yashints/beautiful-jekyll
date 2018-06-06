@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to migrate from WordPress to Jekyll and Github Pages"
+title: "How to migrate from WordPress to Jekyll and GitHub Pages"
 date: 2018-06-06 10:42
 author: Yaser Adel Mehraban
 comments: true
@@ -15,16 +15,16 @@ However, after two years I realised there are a couple of issues really hurting 
 
 Apart from these the security wasn't that good,  the site was served over https, but because of nature of running content out of MySql there were serious risks I had to deal with using other plugins 🔐.
 
-Anyway, I decided to move to [Github Pages](https://pages.github.com) and chose [Jekyll](https://jekyllrb.com/) as the static resource generator.
+Anyway, I decided to move to [GitHub Pages](https://pages.github.com) and chose [Jekyll](https://jekyllrb.com/) as the static resource generator.
 
-Again since I didn't want to spend a lot of time, searching on google was the starting point. There are many good Jekyll templates which are already on Github and ready to use.
+Again since I didn't want to spend a lot of time, searching on google was the starting point. There are many good Jekyll templates which are already on GitHub and ready to use.
 
 I chose [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) which to me stood out from others.
 
 [My website](https://mehraban.com.au) is now up and running, but since I had to deal with a couple of tricks, I thought it would be useful to share my experience.
 
 ## Starting point
-Fork the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) repository on Github and rename it to `yourusername.github.io`.
+Fork the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) repository on GitHub and rename it to `yourusername.github.io`.
 
 The repository had a very detailed read me that you can follow for customising the site with your information. Most of the configs are in `_config.yaml` file in the root.
 
@@ -37,7 +37,7 @@ Since I hadn't used [Markdown](https://en.wikipedia.org/wiki/Markdown) format fr
 If not, you have some manual processing to do after converting the posts to Markdown.
 
 ### What tool should you use for conversion
-I did a search on tools to convert the exported site to Markdown, but many of them failed for me. The one that didn't disappoint me is `wpXml2Jekyll` which you can find [on Github](https://github.com/theaob/wpXml2Jekyll/).
+I did a search on tools to convert the exported site to Markdown, but many of them failed for me. The one that didn't disappoint me is `wpXml2Jekyll` which you can find [on GitHub](https://github.com/theaob/wpXml2Jekyll/).
 
 You have the option to download the source or you can download the binary and run it. It has an `exe` file which you can use. A single command will convert your posts to Markdown and puts them in a folder.
 
@@ -94,13 +94,13 @@ As you can see I am doing a permanent redirect to my website. This way the back 
 ## Some improvements
 
 ### Custom domain
-First thing for me was to use my custom domain on Github Pages. This part is very easy, you just need to update your DNS `A records` to point to Github servers. You will find more information on [Github docs](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
+First thing for me was to use my custom domain on GitHub Pages. This part is very easy, you just need to update your DNS `A records` to point to GitHub servers. You will find more information on [GitHub docs](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
 
 ### Enable HTTPS
-When you're finished wait for the DNS changes to finish, then you can tick the `Enforce HTTPS` on Github which enables HTTPS for your site using [Let's Encrypt](https://letsencrypt.org/getting-started/) certificates.
+When you're finished wait for the DNS changes to finish, then you can tick the `Enforce HTTPS` on GitHub which enables HTTPS for your site using [Let's Encrypt](https://letsencrypt.org/getting-started/) certificates.
 
 ### Add comment ability to posts
-I needed to let users comment on my posts and with Github and Jekyll setup, the easiest way was to use [DISQUS](https://disqus.com/).
+I needed to let users comment on my posts and with GitHub and Jekyll setup, the easiest way was to use [DISQUS](https://disqus.com/).
 
 If you don't have an account, just open a free account and create a website. Once done, get your website name and update the `_config.yaml` file:
 
