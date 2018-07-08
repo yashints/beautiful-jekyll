@@ -165,9 +165,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    jekyll_asset_pipeline (0.6.0)
-      jekyll (~> 3.5)
-      liquid (~> 4.0)
     jemoji (0.8.1)
       activesupport (~> 4.0, >= 4.2.9)
       gemoji (~> 3.0)
@@ -223,7 +220,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
-  jekyll_asset_pipeline
 
 BUNDLED WITH
    1.16.2
