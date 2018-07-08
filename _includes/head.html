@@ -31,6 +31,12 @@
     {% endfor %}
   {% endif %}
 
+  {% if layout.main-css %}
+    {% for css in layout.main-css %}
+      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+    {% endfor %}
+  {% endif %}
+
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
       <link rel="preload" as="style" onload="this.rel='stylesheet'" href="//fonts.googleapis.com/css?family={{ font }}" />
