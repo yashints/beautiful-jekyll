@@ -9,7 +9,6 @@ You can see me speaking on various events from small user groups like [Angular M
 
 ### Future
 * <i class="fa fa-calendar-o"></i> 17-21 September 2018, NDC Sydney, ***Need for speed 8, performance tuning of your web application***
-
 * <i class="fa fa-calendar-o"></i> 02 August 2018, DDD By night - Melbourne, ***Crafting makes your day***
 
 ### Past
