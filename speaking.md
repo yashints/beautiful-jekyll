@@ -3,7 +3,7 @@ layout: default
 title: "Past and future talks"
 ---
 
-You can see me speaking on various events from small user groups like [Angular Melbourne](https://www.meetup.com/Angular-Melbourne) to major conferences. My primary topics are around latest web technologies and frameworks such as Angular, VueJs and others.
+You can see me speaking on various events from user groups like [Angular Melbourne](https://www.meetup.com/Angular-Melbourne) and DDD by night, to major conferences. My primary topics are around latest web technologies and frameworks such as Angular, VueJs and others.
 
 ## 2018
 
