@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Useful Windows shortcuts"
+title: "I am a proud lazy developer"
 subtitle: "Windows useful shortcuts"
 date: 2018-08-20 20:00
 author: Yaser Adel Mehraban
