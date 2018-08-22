@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Useful Windows shortcuts"
+subtitle: "Windows useful shortcuts"
 date: 2018-08-20 20:00
 author: Yaser Adel Mehraban
 comments: true
