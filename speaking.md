@@ -3,7 +3,9 @@ layout: default
 title: "Past and future talks"
 ---
 
-You can see me speaking on various events from user groups like [Angular Melbourne](https://www.meetup.com/Angular-Melbourne) and DDD by night, to major conferences. My primary topics are around latest web technologies and frameworks such as Angular, VueJs and others.
+Yaser loves speaking about what he is interested in and talking on various events from user groups like [Angular Melbourne](https://www.meetup.com/Angular-Melbourne) and DDD by night, to major conferences such as [NDC Sydney](https://ndcsydney.com/talk/need-for-speed-8-performance-tuning-of-your-web-application/). He talks about JavaScript, web platform, web performance, progressive web apps and in general anything web.
+
+Here are some of the events he has or will talk at:
 
 ## 2018
 
@@ -18,8 +20,8 @@ You can see me speaking on various events from user groups like [Angular Melbour
 
 ## Speaking at your event
 
-If you have an event, do not hesitate to reach out and we can sort that out. If you see that your event's date is very close to one of the above in future section, and the subject you're looking for is different to those, then chances are very low that I could be involved.
+If you would like Yaser to speak at your event, reach out to him by [email](yaser@mehraban.com.au) or [send him a direct message on Twitter](https://twitter.com/yashints).
 
-That said, you know how to [reach me](/contactme).
+There is also a [contact me](/contactme) section you can use if you fancy using it 🙃.
 
 
