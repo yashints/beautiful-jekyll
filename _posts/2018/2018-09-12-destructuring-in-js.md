@@ -2,7 +2,7 @@
 layout: post
 title: "Destructuring in JavaScript"
 subtitle: "An effective way to access array/object literals"
-date: 2018-08-20 20:00
+date: 2018-09-12 20:00
 author: Yaser Adel Mehraban
 comments: true
 categories: [Destructuring, JS]
