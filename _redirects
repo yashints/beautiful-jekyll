@@ -1,2 +1,3 @@
-http://blog.mehraban.com.au/*  https://mehraban.com.au/:splat  301!
-https://blog.mehraban.com.au/*  https://mehraban.com.au/:splat  301!
+http://blog.mehraban.com.au/* https://mehraban.com.au/:splat 301!
+https://blog.mehraban.com.au/* https://mehraban.com.au/:splat 301!
+https://yashints.netlify.com/* https://mehraban.com.au/:splat 301!
