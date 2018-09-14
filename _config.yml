@@ -206,6 +206,10 @@ exclude:
   - README.md
   - Vagrantfile
 
+# include these files from production site
+include:
+ - _redirects
+
 # prose.io config
 prose:
   rooturl: '_posts'
