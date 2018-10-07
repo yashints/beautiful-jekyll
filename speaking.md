@@ -10,9 +10,10 @@ Here are some of the events he has or will talk at:
 ## 2018
 
 ### Future
-* <i class="fa fa-calendar-o"></i> 17-21 September 2018, [NDC Sydney](https://ndcsydney.com/talk/need-for-speed-8-performance-tuning-of-your-web-application/), ***Need for speed 8, performance tuning of your web application***
+Nothing for now
 
 ### Past
+* <i class="fa fa-calendar-o"></i> 17-21 September 2018, [NDC Sydney](https://ndcsydney.com/talk/need-for-speed-8-performance-tuning-of-your-web-application/), ***Need for speed 8, performance tuning of your web application***
 * <i class="fa fa-calendar-o"></i> 02 August 2018, DDD By night - Melbourne, ***Crafting makes your day***
 * <i class="fa fa-calendar-o"></i> Monday, May 7, Angular Melbourne meetup, ***Angular service worker behind the scene***
 * <i class="fa fa-calendar-o"></i> Thursday May 3, Voxxed Days Melbourne, ***Get your PWA ready with VueJs in no time***
