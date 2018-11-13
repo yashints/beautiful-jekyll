@@ -641,6 +641,16 @@ footer .theme-by {
 table {
   padding: 0;
 }
+
+table.full-width {
+  width: 100%;
+}
+
+table.full-width svg {
+  width: 100%;
+  height: auto;
+}
+
 table tr {
   border-top: 1px solid #cccccc;
   background-color: #ffffff;
