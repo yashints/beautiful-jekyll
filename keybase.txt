@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yashints
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mehraban.com.au
+  * I am yashints (https://keybase.io/yashints) on keybase.
+  * I have a public key ASDSvRsr4runBXCgfHMMNzhHX1W6dxBb4djmHNpYnXjeJgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d2bd1b2be2bba70570a07c730c3738475f55ba77105be1d8e61cda589d78de260a",
+      "host": "keybase.io",
+      "kid": "0120d2bd1b2be2bba70570a07c730c3738475f55ba77105be1d8e61cda589d78de260a",
+      "uid": "5dddb0238b3d656c6788710bdf4aeb19",
+      "username": "yashints"
+    },
+    "merkle_root": {
+      "ctime": 1543962935,
+      "hash": "7011ec0d7787d6fa3be4c85b0ebcf4424bdf3ad62ab79c2149c05cb57f2802e8f1060dae3f2afaa147d2a60ba3a5925d6c20e095c88a88028e412e41b029cedc",
+      "hash_meta": "4db4676fdfcd4edf2be43a45ae49afce611ca0e3df0dc2bb6b936bf46874b1a5",
+      "seqno": 4053032
+    },
+    "service": {
+      "entropy": "1aemv4Kdo0jByviHs9cAzi3I",
+      "hostname": "mehraban.com.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1543962951,
+  "expire_in": 504576000,
+  "prev": "9c184a6979699fc7e044b9d4d541c0fc7b6ea47acd3e99510476177196609c91",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0r0bK+K7pwVwoHxzDDc4R19VuncQW+HY5hzaWJ143iYKp3BheWxvYWTESpcCB8QgnBhKaXlpn8fgRLnU1UHA/HtupHrNPplRBHYXcZZgnJHEIH38AYJF9+REIu39BzCESSrwQailfgfnOOL0ckXPcLSHAgHCo3NpZ8RAPfPuYWcKzOkrfeE65+b8HTLKU4RBnSJiJXM0MiSx3iqJiLTeEwbsIDeSJgJLGGzjJCAxcVCDdeRrrtAbgoF+CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBmdaiM0ED/wfskMGplEwmx8Nf5z/bToE6m47kIdMkNco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yashints
+
+==================================================================
