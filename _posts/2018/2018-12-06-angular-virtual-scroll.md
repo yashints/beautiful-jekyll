@@ -7,7 +7,7 @@ author: Yaser Adel Mehraban
 comments: true
 categories: [angular, virtual scroll, performance tuning]
 tags: [angular, virtual scroll, performance tuning]
-image: /img/posts/2018/tfjs.jpg
+image: /img/posts/2018/vscroll.jpg
 ---
 
 If you have followed my series on performance improvement, you would've stumbled upon my [image optimisation post](/2018/11/10/web-perf-4) where I went through a series of steps to lazy load images on your page.
