@@ -19,7 +19,7 @@ So I got inspired by [VS Code can do](https://vscodecandothat.com/) that series 
 Are you ready? Here we go:
 
 ## Screen shots
-You can capture a full page screen shot or what is in the screen without any extension. Simply press <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> to open up the command pallet and type `screenshot` to see the menu of three options:
+You can capture a full page screen shot or what is in the screen without any extension. Simply press <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> for windows and <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> for Mac users, to open up the command pallet and type `screenshot` to see the menu of three options:
 
 * Capture full size screenshot
 * Capture screenshot
@@ -57,13 +57,13 @@ And as you saw you can see the last expression using `$_`.
 
 ## Snippets
 
-We all have some repetitive piece of code we use time to time. From a template for an click handler to a document ready function, it can be anything really. That's where the code snippets section comes in handy. You can store a snippet and use it real easy. Just open the snippet section and click `new`. Write your snippet down and whenever you want to use it, press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> or right click and press `run`.
+We all have some repetitive piece of code we use time to time. From a template for an click handler to a document ready function, it can be anything really. That's where the code snippets section comes in handy. You can store a snippet and use it real easy. Just open the snippet section and click `new`. Write your snippet down and whenever you want to use it, press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> for windows and <kbd>Cmd</kbd>+<kbd>Enter</kbd> for Mac users, or right click and press `run`.
 
 ![Chrome DevTools code snippets](/img/posts/2019/chromedevtools/snippet.GIF)
 
 ## Overriding location
 
-If you are writing a web application with information depending where the user is, you might want to check the app behaves as expected with user's location. That's where location override in Chrome DevTools is very useful. Simply press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> to open the command pallet, type `sensors`, and then select a different location from override location drop down. You can even set it to a custom latitude and longitude if you have them.
+If you are writing a web application with information depending where the user is, you might want to check the app behaves as expected with user's location. That's where location override in Chrome DevTools is very useful. Simply press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> for windows and <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> for Mac users, to open the command pallet, type `sensors`, and then select a different location from override location drop down. You can even set it to a custom latitude and longitude if you have them.
 
 ![Chrome DevTools location override](/img/posts/2019/chromedevtools/locationoverride.GIF)
 
