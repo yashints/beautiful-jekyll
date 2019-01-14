@@ -57,7 +57,7 @@ And as you saw you can see the last expression using `$_`.
 
 ## Snippets
 
-We all have some repetitive piece of code we use time to time. From a template for an click handler to a document ready function, it can be anything really. That's where the code snippets section comes in handy. You can store a snippet and use it real easy. Just open the snippet section and click `new`. Write your snippet down and whenever you want to use it, press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> for windows and <kbd>Cmd</kbd>+<kbd>Enter</kbd> for Mac users, or right click and press `run`.
+We all have some repetitive piece of code we use time to time. From a template for an click handler to a document ready function, it can be anything really. That's where the code snippets section comes in handy. You can store a snippet and use it real easy. Just open the snippet section and click `new`. Write your snippet down and whenever you want to use it, press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> for windows and <kbd>Cmd</kbd>+<kbd>Enter</kbd> for Mac users, or right click and press `run`.`
 
 ![Chrome DevTools code snippets](/img/posts/2019/chromedevtools/snippet.GIF)
 
