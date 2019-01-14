@@ -6,47 +6,66 @@ I hereby claim:
 
   * I am an admin of https://mehraban.com.au
   * I am yashints (https://keybase.io/yashints) on keybase.
-  * I have a public key ASDSvRsr4runBXCgfHMMNzhHX1W6dxBb4djmHNpYnXjeJgo
+  * I have a public key with fingerprint DD33 CE66 CD97 2CE0 EE98  A307 201E 55E5 9FD5 03B9
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120d2bd1b2be2bba70570a07c730c3738475f55ba77105be1d8e61cda589d78de260a",
+      "eldest_kid": "01203e9a657fab04f79a93f7079c84cc98027aac7925ae732d0a87bf85fd3c7d651b0a",
+      "fingerprint": "dd33ce66cd972ce0ee98a307201e55e59fd503b9",
       "host": "keybase.io",
-      "kid": "0120d2bd1b2be2bba70570a07c730c3738475f55ba77105be1d8e61cda589d78de260a",
+      "key_id": "201e55e59fd503b9",
+      "kid": "01019aed2c4192b7a2dad1dc6d244b310c45ccb364191a540ec892fcbb2cb66482740a",
       "uid": "5dddb0238b3d656c6788710bdf4aeb19",
       "username": "yashints"
     },
-    "merkle_root": {
-      "ctime": 1543962935,
-      "hash": "7011ec0d7787d6fa3be4c85b0ebcf4424bdf3ad62ab79c2149c05cb57f2802e8f1060dae3f2afaa147d2a60ba3a5925d6c20e095c88a88028e412e41b029cedc",
-      "hash_meta": "4db4676fdfcd4edf2be43a45ae49afce611ca0e3df0dc2bb6b936bf46874b1a5",
-      "seqno": 4053032
-    },
     "service": {
-      "entropy": "1aemv4Kdo0jByviHs9cAzi3I",
       "hostname": "mehraban.com.au",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "2.11.0"
-  },
-  "ctime": 1543962951,
-  "expire_in": 504576000,
-  "prev": "9c184a6979699fc7e044b9d4d541c0fc7b6ea47acd3e99510476177196609c91",
-  "seqno": 7,
+  "ctime": 1547428278,
+  "expire_in": 157680000,
+  "prev": "6a90f5bdfdd0626aa9dc6ffc0cb7986d24f6aa8150b44446bb1de91c447ab7d2",
+  "seqno": 20,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0r0bK+K7pwVwoHxzDDc4R19VuncQW+HY5hzaWJ143iYKp3BheWxvYWTESpcCB8QgnBhKaXlpn8fgRLnU1UHA/HtupHrNPplRBHYXcZZgnJHEIH38AYJF9+REIu39BzCESSrwQailfgfnOOL0ckXPcLSHAgHCo3NpZ8RAPfPuYWcKzOkrfeE65+b8HTLKU4RBnSJiJXM0MiSx3iqJiLTeEwbsIDeSJgJLGGzjJCAxcVCDdeRrrtAbgoF+CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBmdaiM0ED/wfskMGplEwmx8Nf5z/bToE6m47kIdMkNco3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJrUFVVFL5cRIRUINJoSoaONjYj4T7vc64Kg5GJBTmkjQjTZZ+99+Ee
+4T68L3koDTDm4B/UzBSuvJIkTZugkSHCAVIhMDEmqAmcUkIYE7JwKu7I0LmM/mv9
+2bPX+r5vfWvNurIs2BAeFBe7c7x2KLgtqL+r2mPI3nD7UjGl2HEhZSqm8sjCQ/Ix
+cbnNeRqmTBSgGcASGQq8qEIFcKooQ5lVRSDKSOIQkiXAiBAiUWZ4SESWwQBKoqJK
+vIpZJGKBpxUAqXhK1Wy5xOlwaja3LosxyyIiCAjLIoMIIESWIAtEBtCE5wkvq5gH
+rCLrRIvdFWDo5hToIgmaXc/pH/OCvf/BP/ENaBkSzCCOlhlFhAyGmMZIwAzHKSwN
+EMcjpLCCXqYhzwGCJJlRkaIwSBEETmJEbsG3Z0GOxxgrgGElhdVHEpAgSpJIAwWr
+HCQKHejrcRGnDVqJji6ELos+p4s6EE/pWa+GSGCxgUkeI6zE4oQKtCUguzUBenS6
+w2l325E9Xy9a3G6HyxQguwsdAfQ+opgf65gVzYb1VeoML3G6NLuNMtE6Erm1gDDN
+cyLH6OaleIoUODQnMWsBBC8KEtAj0Id4dUkBykDldf8YA4ERIJT13agqAkgRZSmw
+JVVPSjQPFE4PQVFoTGQacZwIFREzVGCyvTY7ZWJ0UTfM1TVdWq4Nuj1OQh3o7spe
+ZAgKNywOMQZuzBAeFvnk8l5bEzHvOhvH3Ejd9txk/1BWVuqd6F3Ji1WtI+Ny0rtt
+1ns9dPmHk3ZqtVBSutbS2xf0q2UUNRSL/4R6/ZrfeOm3rQOh8Z9Ne8eqfqmxpqeV
+1G+CEdUtxrCcidBThke9F14M7qu5/ffxkEZ7aEsXON16dFd7kS/z/qAz2hWXN3+u
+Vd0zeKTUuq/+57MHE9X3z+WciepYkT8Vku7ryKz4xBfk9lLHYxuDr8IdSSesxjfE
+jB3Xeledv59OF3RvLcgI5rY8uFs9HnW6gotB+yu/qBhb/aYW3VN046f4qetSZ9Vb
+dzNHOhwV5d9UJ+L054XmV890Wk++dDIXfzwLroC5/bMvD6+x9FVtGn/0aX3jrZi5
+Cw/WUh98G10/+nbHwMb8F2pS519fP9ZwYqps1rd9qe/P6YmUxiEZ+wei8FdhxjTy
+ytH0PSk5qau2f/7MR8ZTPy6rMzXMNJ9vbipb2hn7x0X/06arft9UWyXPPzvTkTFs
+m8yRe9uTYzd8v8RWl5b4lPcO3Hlr83x75MMtS0j7YbB4ZS2/cZs599BwRGlJzAp7
+hK9tc1IRe3Ok8trge6kTKNNxMIe/lzWT/bVpL8psCT02etMXuXyltfZhSnNL1Tvr
+/pr+cv0xz4h3zrT74nfrghMNRwwC6O7ta17eFFWwqKdu/ofL5eV0Me9v/Tfm8KHM
+sqzrTf27f08univ/DwLuwmQ=
+=EbyE
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
