@@ -8,7 +8,7 @@ categories: [Angular, asp.net, CI/CD, VSTS, webpack]
 tags: [angular 2, angular cli, aspnetcore, CI/CI, VSTS]
 ---
 Recently I was assigned to a green field project where we had to create an initial structure of a project which was going to be written in [Angular 2](https://angular.io/) using [Angular CLI](https://github.com/angular/angular-cli) for front end side and ASP.Net Core for back-end. 
-
+<!--more-->
 We had to use [VSTS](https://www.visualstudio.com/team-services/) (Visual Studio Team Services) as our source control and build and deployment pipeline. The result was then deployed to [Azure Web Apps](https://azure.microsoft.com/en-au/services/app-service/web/) and the aim was to make this happen. 
 
 After some digging and trying the new version of [Visual Studio 2017](https://www.visualstudio.com/vs/whatsnew/) and setting the initial build steps, I found out that VSTS does not support the `csproj` files yet. Therefore, I had to go back and use visual studio 2015 with `project.json` file.

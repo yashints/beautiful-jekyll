@@ -13,7 +13,7 @@ image: /img/posts/2018/win10shortkeys.jpg
 I saw a quote today on Twitter:
 
 > As a developer I don't feel bad about being lazy. If I can make a computer to repeat something for me, why should I do it myself?
-
+<!--more-->
 When I saw this, I thought about things that are on my day to day work, and are done in that way just because being lazy is not a bad thing in my opinion too.
 
 That's why I want to share with you some of the short keys on Windows 10, which helps me do stuff way faster that normal. So here we go 😎:

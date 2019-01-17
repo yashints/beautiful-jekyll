@@ -8,7 +8,7 @@ categories: [docker]
 tags: [docker, docker-compose]
 ---
 I was working with my docker image for my pet project and suddenly got a message saying:
-
+<!--more-->
 {: .box-error}
 **Error:** client version 1.22 is too old. Minimum supported API version is 1.24, please upgrade your client to a newer version.
 

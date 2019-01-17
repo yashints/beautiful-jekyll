@@ -10,7 +10,7 @@ image: /img/posts/petproject.png
 ---
 
 For us (developers) the most irritating and cumbersome process is to keep ourselves up to date, since every 2 second a new language/tool/technology is born out of nowhere. We know that we have to keep up with our peers if we want to stay in loop and don't get left behind.
-
+<!--more-->
 This is awfully worst for consultants since they will spend some time on different engagements and they have to know a bit of everything they will face and also more if they want to lead the client in that area. 
 
 We all have family/personal stuff to do and usually don't have enough time to read about everything we face everyday, and we shouldn't since it is proven to [reduce](http://www.cnbc.com/2015/01/26/working-more-than-50-hours-makes-you-less-productive.html) productivity in the long run. So the question is what are we supposed to do to achieve this?

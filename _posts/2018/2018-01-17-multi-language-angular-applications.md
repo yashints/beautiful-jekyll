@@ -9,7 +9,7 @@ tags: [angular, ngx-translate]
 image: /img/posts/2018/logo.png
 ---
 Are you working on an international product where you need to support multiple languages? Is your application written in Angular? Then this article might help you to get it done easier than ever.
-
+<!--more-->
 We will use a small application since the purpose here is to show you how easy you can another language to your application. So let's get started.
 
 Full source code of this example is available on [this GitHub repo](https://github.com/yashints/ngx-translate).

@@ -11,7 +11,7 @@ image: /img/posts/2019/chromedevtools/chrome-dev-logo-icon.png
 ---
 
 [Google Chrome](https://www.google.com/chrome/) is currently one of the most popular web browsers used by developers today. The [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) can greatly improve your workflow by helping you develop, test and debug your websites right within your browser. 
-
+<!--more-->
 However, there are tons of tips and tricks that we don't know about it which can help us even further. Just because we don't see them in menus doesn't mean we shouldn't use them to boost our productivity.
 
 So I got inspired by [VS Code can do](https://vscodecandothat.com/) that series by by [Burke Holland](https://twitter.com/burkeholland) and [Sarah Drasner](https://twitter.com/sarah_edo) and decided to write about these here. Hope it helps you as it's helping me and many others day by day 👌.

@@ -10,7 +10,7 @@ image: /img/posts/ps.png
 ---
 
 Have ever been stumbled upon needing a certificate very fast and looking for tools for hours? Well I found a series of `PowerShell` commands which makes your life super easy.
-
+<!--more-->
 I am sure there are many people who've tried `OpenSSL`, `MakeCert.exe`, `IIS` or may other tools and spend hours searching to generate a `self-sign` certificate for testing or other purposes.
 
 Well with `PowerShell` it can be this easy. The commands you need are `New-SelfSignedCertificate` and `Export-PfxCertificate`. The way you use them is as follows.

@@ -9,7 +9,7 @@ tags: [angular, application manifest, pwa, progressive web apps, service worker]
 image: /img/posts/2018/angularpwa.png
 ---
 [Progressive Web Applications (PWA)](https://developers.google.com/web/progressive-web-apps/) are getting more and more attractions by day. With recent move from DevKit team, adding service worker support to the latest version of Safari, and [Microsoft adding progressive web applications to their store](https://www.windowscentral.com/first-batch-windows-10-progressive-web-apps-here), we can see the importance of the key role PWAs play in today's market.
-
+<!--more-->
 With [Angular version 5.0.0](https://angular.io/), the team introduced a new version of their [service worker aka (ngsw)](https://angular.io/guide/service-worker-intro) which has a ton of goodies from a fully functional service worker to full support for push notifications. In this post I will iterate through them and turn an existing application into a PWA.
 
 The demo application I've prepared can be found on [my GitHub repo here](https://github.com/yashints/Angular-PWA).

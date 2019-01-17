@@ -9,7 +9,7 @@ tags: [boot, hyperv, virtualbox]
 image: /img/posts/2018/hyperv-virtualbox.png
 ---
 Recently I had to switch between [VirtualBox](https://www.virtualbox.org/) and [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V) and unfortunately these two don't get along well 😉. So I started googling for a solution and this one was the one that got my attention.
-
+<!--more-->
 This solution uses a tool called `bcdedit` on windows. The way it works is by duplicating your windows profile and set `hypervisorlaunchtype` mode off in one of them. This way you don't have to uninstall Hyper-V and restart to be able to start a VirtualBox virtual machine. So in this article I will show you how it is done.
 
 First let's start by taking a backup just in case we mess it up.

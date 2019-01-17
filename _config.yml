@@ -132,6 +132,7 @@ disqus: "yashints"
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 150
+excerpt_separator: <!--more-->
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title

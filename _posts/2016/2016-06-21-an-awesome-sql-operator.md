@@ -9,7 +9,7 @@ tags: [cross apply, join, query, t-sql]
 ---
 
 I was working on a problem and I was desperate to do a clean job and not create a mess that no one can maintain it, and accidentally I read an article about SQL `Apply` operator.
-
+<!--more-->
 The `APPLY` operator allows you to invoke a table-valued function for each row returned by an outer table expression of a query. 
 
 The table-valued function acts as the right input and the outer table expression acts as the left input. The advantage over inner join is that it is faster and you can handle conditional joins easily using this trick.

@@ -9,7 +9,7 @@ tags: [angular, aspnetcore, authentication, azureactivedirectory, cors]
 image: /img/posts/cors.jpg
 ---
 Recently, I wrote a [post](/2017-09-28-integrating-spa-azure-ad/) about using [Azure Active Directory](https://azure.microsoft.com/en-au/services/active-directory/) (AD) as authentication mechanism for a single page application written in Angular. It also consumed [ASP.NET Core 2.0](https://github.com/aspnet/Home) as API layer an we saw how to wire up the whole thing end to end.
-
+<!--more-->
 In my approach I redirected user to Azure from client side, however, there are other ways you can follow in which the user is redirected from server to Azure login page. In such cases you might struggle with [cross origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) aka CORS issues as it will be required for the application to behave properly.
 
 ## Why?

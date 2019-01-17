@@ -13,7 +13,7 @@ This is the third article in ES6 new features series.
 [Part II](/2016-07-07-es6-new-features-part-ii/)
 
 [Part III](/2016-07-11-es6-new-features-part-iii/)
-
+<!--more-->
 Well for a long time I wanted to write a blog post about migrating Angular 1.x to 2, however, before doing so I thought it is really helpful to write about some prerequisites of that.
 
 Number one in the list would be ES6. Which is the topic of today's post. ES6 (often referred to as “Harmony”) is the upcoming sixth major release of the ECMAScript language specification. 

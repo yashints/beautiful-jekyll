@@ -12,7 +12,7 @@ TL/DR,
 If you are using angular-filter already don't read this.
 
 Recently I was working on a task for creating a responsive UI which involved changing the html select with a button. Then with a click or tap on the button there should be a list shown like a drop down. Well I though ok let's do that and quickly started using bootstrap dropdown.
-
+<!--more-->
 Then when it came to showing the list I needed to do a group by and well I did this:
 
 {% highlight html linenos %}

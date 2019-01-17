@@ -8,7 +8,7 @@ categories: [Angular, Reactive Forms]
 tags: [angular, custom validation, reactiveforms]
 ---
 When using [reactive forms](https://v2.angular.io/docs/ts/latest/guide/reactive-forms.html) in [Angular](https://angular.io/) we usually avoid template based validation like `required`, `maxlength` and so on. Instead we use the `Validators` in the `@angular/forms` like this:
-
+<!--more-->
 ```javascript
 this.heroForm = this.fb.group({
   name: ['', Validators.required ],

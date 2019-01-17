@@ -11,7 +11,7 @@ image: /img/posts/2018/tfjs.jpg
 ---
 
 If you are like me, who have been wondering what is machine learning (aka ML) and scaped from all those mathematical jargon, it's an exciting time since the `TensorFlow.js` is here to the rescue.
-
+<!--more-->
 You can find the [code for this post here](https://github.com/yashints/mobilenet).
 
 ## Intro

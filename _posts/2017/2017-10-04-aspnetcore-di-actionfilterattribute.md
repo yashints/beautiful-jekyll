@@ -10,7 +10,7 @@ tags: [actionfilterattribute, aspnetcore, aspnetmvc, DI, servicefilter]
 ## Problem
 
 Let's assume you want to validate something before a request hits your [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) controller's action method. One of the possible solutions is to create an `ActionFilterAttribute` and use its `OnActionExecutionAsync` (in case you like to do it asynchronously) to do the checking. Now if you are depending on something like configuration or even another instance of a class it is going to be tricky.
-
+<!--more-->
 {: .box-note}
 **Note**: The purpose of this post is not to introduce the `ActionFilterAttributes`. [For that you can have a look at here](https://msdn.microsoft.com/en-us/library/system.web.mvc.actionfilterattribute(v=vs.118).aspx).
 

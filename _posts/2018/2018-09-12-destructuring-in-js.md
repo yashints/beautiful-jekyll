@@ -11,7 +11,7 @@ image: /img/posts/2018/destructring.jpg
 ---
 
 With improvements on JavaScript and ECMAScript many awesome features are added which we don't normally use. However, when you read other people's code from OSS to doing a simple code review, you might face these features used and not know what they do.
-
+<!--more-->
 One of these cool features is destructuring which was added to ES6 a while back. By that I mean it's not something new, but it is not used regularly either.
 
 ## What is it

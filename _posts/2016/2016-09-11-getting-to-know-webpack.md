@@ -10,7 +10,7 @@ image: /img/posts/webpacklogo.png
 ---
 
 [webpack](http://webpack.github.io/) is an awesome module bundler which came to the party a bit late after [gulp](http://gulpjs.com/) and [grunt](http://gruntjs.com/).
-
+<!--more-->
 I am trying to provide a kinda step-by-step guide on how to simply setup webpack and get familiar with it. So, let's get started:
 
 ## Step 1: initial setup

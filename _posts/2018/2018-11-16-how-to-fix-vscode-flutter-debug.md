@@ -13,7 +13,7 @@ image: /img/posts/2018/vscodeflutter.jpg
 ## Intro
 
 [Flutter](https://flutter.io) is a framework created by [Google](https://google.com) which allows you to build beautiful native apps on iOS and Android from a single codebase.
-
+<!--more-->
 I recently finished my project at my latest client and had it mind to play with, so I set everything up based on their [documentation](https://flutter.io/docs) which to my opinion is the most straight forward doc I've ever seen.
 
 You will need to install a few things:

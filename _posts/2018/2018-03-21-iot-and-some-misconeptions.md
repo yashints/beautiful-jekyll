@@ -9,7 +9,7 @@ tags: [IoT, misconceptions]
 image: /img/posts/2018/iot.jpg
 ---
 I've being reading around [internet of things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things) and playing with some of the kits available, however, this post is not about how to setup a device and read the data from sensors. 
-
+<!--more-->
 After talking to some of my family and friends about this and asking what their take on the subject is, I figured most of the people have some misconceptions around it.
 
 In this article I want to explain what is IoT and some of the usage and concerns around it, but before I start, let me mention some of those misconceptions:

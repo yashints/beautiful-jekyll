@@ -11,7 +11,7 @@ image: /img/posts/basics_of_auth_in_aad.png
 
 >As a user I want to be able to login to system using my work account
 
-This is one of the most famous lines in a user story in almost every project's backlog. However, sometimes it might be the case that you are responsible to decide which authentication mechanism to be used.
+This is one of the most famous lines in a user story in almost every project's backlog. However, sometimes it might be the case that you are responsible to decide which authentication mechanism to be used.<!--more-->
 
 {: .box-note}
 **Note:** The source code for this post can be found on my [GitHub repository](https://github.com/yashints/Angular4AzureAD).

@@ -10,7 +10,7 @@ image: /img/posts/2018/jekyll-github-pages.png
 ---
 
 I restarted my blogging around 2016 after loosing all of my previous content and chose [WordPress](https://wordpress.com) because I wanted to focus on content rather than managing the site.
-
+<!--more-->
 However, after two years I realised there are a couple of issues really hurting user experience. There were limitations on page load speed because of plugins, managing the plugins and updating them regularly was another one 🔌.
 
 Apart from these the security wasn't that good,  the site was served over https, but because of nature of running content out of MySql there were serious risks I had to deal with using other plugins 🔐.

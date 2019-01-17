@@ -13,7 +13,7 @@ This is the second article in ES6 new features series.
 [Part I](/2016-07-06-es6-new-features-part-i/)
 
 [Part III](/2016-07-11-es6-new-features-part-iii/)
-
+<!--more-->
 ### 6. Arrow Functions in ES6
 
 Do you remember the fat functions of CoffeeScript? Now we have them in ES6. An arrow function expression has a shorter syntax compared to function expressions and lexically binds the this value (does not bind its own this, arguments, super, or new.target). 

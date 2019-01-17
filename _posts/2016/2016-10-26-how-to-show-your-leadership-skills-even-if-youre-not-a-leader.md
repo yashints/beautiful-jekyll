@@ -8,7 +8,7 @@ categories: [leadership skills, soft skills]
 tags: [leadership, promotion, soft skills]
 ---
 I am currently working towards a promotion to Senior Consultant and as part of the process I have needed to demonstrate my leadership skills and abilities.  Working solo on an engagement with a client who won’t let me go, I have not been in an actual team lead role, and this has made it challenging to demonstrate team leadership skills.  I figure that others might be in a similar position, so thought it worth sharing some of my lessons.
-
+<!--more-->
 When your manager hands over the reins of a project to you, it’s a sure sign you are a safe and trusted pair of hands.   Here’s your opportunity to highlight your leadership skills and abilities. But what if you’re put in charge of leadership responsibilities without a formal title, or worst you're not in charge at all but have to prove your abilities in this area?
 
 I did some research on how you can demonstrate your leadership skills and abilities without a being officially in the role, and found some interesting articles around this topic.

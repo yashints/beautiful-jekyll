@@ -9,7 +9,7 @@ tags: [soft skills, public speaking]
 image: /img/posts/2018/voxxed.jpg
 ---
 I've been trying to actively improve my public speaking skills (one of the reasons why I blog less these days 😁) and started from local meetups and user groups. However, my goal was to give a talk in an official conference this year.
-
+<!--more-->
 I started to read blog posts from famous speakers around how to respond to `CFP` (call for proposals) and practice at home. Choosing a topic can be very hard so I was trying to find something interesting that I feel comfortable talking about in front of audience.
 
 At the same time, I started doing brown bag sessions (short sessions sharing something you know in your own company or somewhere you work for) at Readify - where I work as a consultant - and got some internal feedback around what I should improve and areas that needed more focus.

@@ -13,7 +13,7 @@ image: /img/posts/ReactiveForms.jpg
 Before I start, let's see what does reactive mean.
 
 When talking about [reactive forms](https://angular.io/guide/reactive-forms), it means that we are avoiding to use `ngModel`, `required` and so on. This means that instead of showing that Angular is taking care of the form for us, we can use the underlying APIs to do so. 
-
+<!--more-->
 In a simpler term, instead of using template driven model binding, we can construct our own form and the way they should be bound, validated and so on. For more information please refer to [Angular documentation here](https://angular.io/guide/reactive-forms).
 
 Now if you are creating a form in [Angular ](https://angular.io/) using Reactive Forms and you have a complex object to bind to i.e. your form has multiple sections and each of them should be bound to a child object, then you can simply use [FormControl](https://angular.io/api/forms/FormControl#formcontrol) on an input like this:

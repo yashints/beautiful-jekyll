@@ -9,7 +9,7 @@ css: "/css/aboutme.css"
   <div>Hi there, it's me</div> 
   <h2 class="name">Yaser</h2>
   <div class="short-summary">
-    Passionate software engineer, blogger, speaker, hiker, father
+    Creative web dev, blogger, speaker, hiker, father
   </div>
   <div class="more-buttons">
     <a class="btn" href="#background"><span>Read more</span></a>

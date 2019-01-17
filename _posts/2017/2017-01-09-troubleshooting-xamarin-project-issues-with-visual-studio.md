@@ -10,7 +10,7 @@ image: /img/posts/VSXamarin.jpg
 ---
 
 Today I started to install Xamarin and create a pet project for myself. While doing so I faced a couple of issues and solved them using a couple of hints from SO which are worth sharing so other new starters like me can fix them quicker than me.
-
+<!--more-->
 ## Android emulator opens, but project does not deploy and start
 
 This happens specially using VS ` new > project > run ` combination. You will see that it builds and everything is fine, however, the emulator starts and your application will appear/not appear at all and drop quickly afterwards. You will most likely get a message like:

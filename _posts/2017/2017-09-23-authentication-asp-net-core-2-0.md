@@ -9,7 +9,7 @@ tags: [2fa, active, aspnetcore, authentication, qrcode, security, sms]
 image: /img/posts/net-core-logo-proposal.jpg
 ---
 As you might know the [.NET Core 2.0](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/) was release recently and with it come many improvements and changes. In this post I will point out a couple of changes from a security and authentication perspective.
-
+<!--more-->
 ## Authentication
 
 If you have previously used any form of authentication in ASP.NET Core 1.0, you would know that in order to configure your preferred mechanism you have to call one of the middle-wares available. For example if you wanted to use cookie authentication (local) this is how it would look like:

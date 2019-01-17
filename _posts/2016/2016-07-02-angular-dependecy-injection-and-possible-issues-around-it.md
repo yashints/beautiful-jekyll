@@ -8,7 +8,7 @@ categories: [Angular, JS]
 tags: [angular, dependency injection]
 ---
 Have you ever wondered why you angular code works perfectly in you dev environment but not in production?
-
+<!--more-->
 Angular leverages dependency injection all across the framework. It works with functions defined for `controller`, `directive`, `service`, `factory`, etc. This can create an issue when minifying JavaScript assets. To illustrate this issue let's late a look at a test controller:
 
 {% highlight javascript linenos %}

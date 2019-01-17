@@ -10,7 +10,7 @@ image: /img/posts/2018/reangular.jpg
 ---
 
 With release of [Angular 6](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4), the team released `Angular Elements` which allows you to bootstrap Angular components within an existing Angular application by registering them as *Custom Components*.
-
+<!--more-->
 This opens a whole lot of opportunities to web developers who are used to argue about superiority of Angular vs React. Some people believe Angular is suitable for developing enterprise applications, while others prefer React because of it's speed and bundle size. Meanwhile, Angular team has been working hard to bring this feature into V6 release and let Angular lovers create Custom Components which can be used in other framework.
 
 The result component will be like a web component for the React application like any other HTML components like `button` or `input`. Plus, finally I found some time to play with the concepts and get a quick demo ready and it was pretty easy as expected. So let's get started.

@@ -9,7 +9,7 @@ tags: [angularjs, binding, debugging, performance, reactjs, scope, template, tra
 image: /img/posts/angular-vs-react.jpg
 ---
 Spoiler alert: we cannot compare these two as they are different in nature, but, I try to go through some points where to need to consider when choosing a front end technology.
-
+<!--more-->
 When you **deploy** your app you probably want to delay sending unnecessary files to client and increase the page load speed. Well if that's the case Angular has very little support for that as you can lazy load html templates. 
 
 Although you can do so for the JS files but you eventually end up with a spaghetti code which is hard to maintain and also takes some time to completely address what you need.

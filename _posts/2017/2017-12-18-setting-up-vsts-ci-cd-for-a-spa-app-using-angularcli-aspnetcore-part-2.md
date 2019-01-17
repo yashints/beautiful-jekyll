@@ -10,7 +10,7 @@ image: /img/posts/vstsazure.jpg
 ---
 
 [In my previous post](/2017-04-27-vsts-cicd-angularcli-aspnetcore/) I showed you how to setup a build pipeline for a SPA application written in [Angular](https://angular.io/) using [Angular CLI](https://github.com/angular/angular-cli) and [ASP.Net Core](https://docs.microsoft.com/en-us/aspnet/core/) as back-end. I promised back then to continue with the release as well, but have been pretty busy lately.
-
+<!--more-->
 Now is the time to pay my debt and show you how you will get the release done to make it a proper continuous delivery right from when you commit the code to when it is deployed to production.
 
 We will be using [Azure Web Apps](https://azure.microsoft.com/en-au/services/app-service/web/) for our deployment purposes but it really doesn't matter where you deploy it since there are many third party tools covering different providers like [AWS](https://aws.amazon.com/).

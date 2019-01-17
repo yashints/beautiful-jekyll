@@ -10,7 +10,7 @@ bigimg: /img/posts/angularmigrate.jpg
 ---
 
 I've seen many ways to shape an Angular app in different companies. This means when we try to upgrade to Angular 2 some of them might be easy to migrate compared to others. So why we don't try to write some code that is easy to migrate even before trying to upgrade??? 
-
+<!--more-->
 According to Angular official website there are a few keys and patterns to follow which lets us make the transition smoother when the time comes. But first let's discuss why we should upgrade.
 
 ## Why Upgrade

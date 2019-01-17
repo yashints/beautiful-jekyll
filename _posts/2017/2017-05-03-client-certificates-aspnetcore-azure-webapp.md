@@ -10,7 +10,7 @@ image: /img/posts/certificate.png
 ---
 
 Recently we had to communicate with an external API featuring [mutual authentication](https://en.wikipedia.org/wiki/Mutual_authentication) using client certificates (AKA two way SSL). 
-
+<!--more-->
 We were using ASP.Net Core hosted on Azure Web App service and had to call the API's using [HTTPClient](https://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.110).aspx) (There is another way of enabling this on Azure using [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) which I will mention later).
 
 # Upload your certificate

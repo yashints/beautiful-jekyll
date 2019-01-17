@@ -9,7 +9,7 @@ tags: [angular 2, aspnetcore, authentication, azure, b2c, idm, mfa]
 image: /img/posts/b2c.png
 ---
 This article is one of the two part series I wrote on how to use Azure B2C as your identity manager.
-
+<!--more-->
 You can find [part 2 here.](/2017-08-21-using-azure-b2c-identity-manager-part-2/)
 
 [Full source code on Github.](https://github.com/yashints/Angular4AzureB2C)
