@@ -32,14 +32,14 @@ We thought let's try to see if we can fix this and make sure visitors feels 1. w
 
 ## Initial research
 
-To try to solve desk occupancy problem, we spiked two different technologies, [Bluetooth beacons](https://en.wikipedia.org/wiki/Bluetooth_low_energy_beacon) and WiFi prob requests. We realised we could identify who is sitting where using a mobile app and a beacon. We could also identify the area they are sitting at using their WiFi signal. But we decided to not go further on this since it arose some privacy concerns we needed to tackle before we could progress. It also needed a bit more thinking in terms of how exactly we wanted to tackle the challenge and whether we could solve it without knowing the exact location of a specific person. 🤔
+To try to solve desk occupancy problem, we spiked two different technologies, [Bluetooth beacons](https://en.wikipedia.org/wiki/Bluetooth_low_energy_beacon) and WiFi probe requests. We realised we could identify who is sitting where using a mobile app and a beacon. We could also identify the area they are sitting at using their WiFi signal. But we decided to not go further on this since it arose some privacy concerns we needed to tackle before we could progress. It also needed a bit more thinking in terms of how exactly we wanted to tackle the challenge and whether we could solve it without knowing the exact location of a specific person. 🤔
 
 For our second problem we had a brain storming session where we went through many ideas and finally decided to use a mixture of service to solve this problem:
 
 * Facial recognition (for detecting a returning visitor or a staff)
 * A sort of Dialog component (like a Bot) to communicate
 * Speech component so we can talk to people
-* And an integration component where we fetch the required information about our peeps
+* And an integration component where we fetch the required information about our people
 
 At first we focused on Azure service because they had everything we needed. [Face API](https://azure.microsoft.com/en-au/services/cognitive-services/face/), [Microsoft Bot framework](https://dev.botframework.com/) and [Cognitive Speech services](https://azure.microsoft.com/en-au/services/cognitive-services/speech-services/) where already available. We decided to give them a shot using a PoC (proof of concept) and see what we can do in one week.
 
@@ -103,16 +103,15 @@ There are many services used behind the scene. At the core of this experience is
 ![Amazon Virtual Host](/img/posts/2019/vh.jfif)
 
 ## Key findings
-We reached to a point where a demo was available and the team was happy with the outcome. But although we could finish the first phase on time, we found few issues with the whole experience.
+We reached to a point where a demo was available and the team was happy with the outcome. But although we finished the first phase on time, we found few issues with the whole experience.
 
 * The Amazon Sumerian is not a place where people can collaborate. Only one person can work on a particular scene at a time.
 * You cannot keep the source code in source control. At most you can export the whole scene as a zip file and share it.
 * Adding a simple scene takes a bit of time. But its very straightforward
 * The produced bundle is not optimised properly although they are using **Webpack**
-* It's a good opportunity to get your hands dirty and get to know a few AWS services
 * AWS JavaScript SDK is really good and well documented
 
 
 ## Conclusion
 
-This is a great opportunity to play around with the virtual host and create experiences which would be unforgettable. The true use of technology for something good.
+This is a great opportunity to play around with the virtual host and create experiences which would be unforgettable. The true use of technology for something good. It's also a good opportunity to get your hands dirty and get to know a few AWS services.
