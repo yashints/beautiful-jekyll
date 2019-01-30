@@ -11,15 +11,15 @@ image: /img/posts/angular-pure-pipes/pure-pipes.jpeg
 canonical_url: 'https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068'
 ---
 
-![Pure pipes in Angular()
-
 When writing a custom pipe in Angular you can specify whether you define a pure or an impure pipe:
 
+```javascript
 @Pipe({
   name: 'myCustomPipe', 
   pure: false/true        <----- here (default is `true`)
 })
 export class MyCustomPipe {}
+```
 
 Angular has a pretty good documentation on pipes that you can find here. But as it often happens with documentation the clearly reasoning for division is missing. In this article I’d like to fill that hole and demonstrate the difference from the prospective of functional programming which shows where the idea of pure and impure pipes come from. Besides learning the difference you will know how it affects the performance and this knowledge will help you write efficient and performant pipes.
 
