@@ -7,7 +7,7 @@ author: Maxim Koretskyi
 comments: true
 categories: [angular, pipes]
 tags: [angular, pipes, web-development]
-image: /img/posts/angular-pure-pipes/pure-pipes.jpeg
+image: /img/posts/2019/angular-pure-pipes/pure-pipes.jpeg
 canonical_url: 'https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068'
 ---
 
