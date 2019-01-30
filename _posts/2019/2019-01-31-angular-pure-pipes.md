@@ -2,13 +2,13 @@
 layout: post
 title: "The essential difference between pure and impure pipes in Angular and why that matters"
 subtitle: "Leveraging pure pipes to optimize Angular application"
-date: 2019-01-14 16:00
+date: 2019-01-31 16:00
 author: Maxim Koretskyi
 comments: true
 categories: [angular, pipes]
 tags: [angular, pipes, web-development]
 image: /img/posts/2019/angular-pure-pipes/pure-pipes.jpeg
-canonical_url: 'https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068'
+canonical_url: "https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068"
 ---
 
 When writing a custom pipe in Angular you can specify whether you define a pure or an impure pipe:
@@ -25,7 +25,7 @@ Angular has a pretty good documentation on pipes that you can find here. But as 
 
 > I work as a developer advocate at [ag-Grid](https://angular-grid.ag-grid.com/?utm_source=mehraban&utm_medium=blog&utm_campaign=angularpurepipes). If you’re curios to learn about data grids or looking for the ultimate Angular data grid solution, get in touch or give it a try with the guide “[Get started with Angular grid in 5 minutes](https://medium.com/ag-grid/get-started-with-angular-grid-in-5-minutes-83bbb14fac93)”. I’m happy to answer any questions you may have.
 
-##A pure function
+## A pure function
 There’s so much information on the web about functional programming that probably every developer knows what a pure function is. For myself I define a pure function as a function that doesn’t have an internal state. It means that all operations it performs are not affected by that state and given the same input parameters and produces the same deterministic output.
 
 Here are the two versions of a function that adds numbers. The first one is pure and the second one is impure:
@@ -126,17 +126,17 @@ You can see that the first call to `add` method on the second instance produces 
 
 So let’s recap what we’ve learnt so far about functions:
 
-###Pure:
+### Pure:
 
 * input parameters value determine the output so if input parameters don’t change the output doesn’t change
 * can be shared across many usages without affecting the output result
 
-###Impure:
+### Impure:
 
 * cannot use the input value to determine if the output will change
 * cannot be shared because the internal state can be affected from outside
 
-##Applying that knowledge to Angular pipes
+## Applying that knowledge to Angular pipes
 
 Suppose we defined one custom pipe and make it pure:
 
