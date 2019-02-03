@@ -153,11 +153,13 @@ export class MyCustomPipe {}
 And use it like this in a component template:
 
 ```html
-<span>{{v1 | customPipe}}</span>
-<span>{{v2 | customPipe}}</span>
+{% raw %}
+<span>{{ v1 | customPipe }}</span>
+<span>{{ v2 | customPipe }}</span>
+{% endraw %}
 ```
 
-Since the pipe is pure it means that there’s no internal state and the pipe can be shared. How can Angular leverage that? Even though there are two usages in the template Angular **can create only one pipe instance which can be shared between the usages**. For those who know from my previous articles []what a component factory](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce) is here is the relevant compiled code which defines only one pipe definition:
+Since the pipe is pure it means that there’s no internal state and the pipe can be shared. How can Angular leverage that? Even though there are two usages in the template Angular **can create only one pipe instance which can be shared between the usages**. For those who know from my previous articles [what a component factory](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce) is here is the relevant compiled code which defines only one pipe definition:
 
 ```javascript
 function View_AppComponent_0(_l) {
@@ -215,7 +217,9 @@ The second point from the summary in the first chapter was that with pure functi
 In Angular we pass input parameters to a pipe like this:
 
 ```html
-<span>{{v1 | customPipe:param1:param2}}</span>
+{% raw %}
+<span>{{ v1 | customPipe:param1:param2 }}</span>
+{% endraw %}
 ```
 
 So if a pipe is pure we know that it’s output (through transform method) is strictly determined by the input parameters. If the input parameters don’t change the output won’t change. This reasoning allows Angular to optimize the pipe and call `transform` method **only when input parameters change**.
