@@ -23,7 +23,10 @@ use-site-title: true
     <p class="post-meta">
       <i class="fa fa-calendar-o" aria-hidden="true"></i>
       <span> Posted on {{ post.date | date: "%B %-d, %Y" }}</span>
-      {% include read_time.html content=post.content %} 
+      {% include read_time.html content=post.content %}
+      {% unless post.author contains 'Yaser'   %}
+          by {{post.author}}
+        {% endunless %}
     </p>
 
     <div class="post-entry-container">
