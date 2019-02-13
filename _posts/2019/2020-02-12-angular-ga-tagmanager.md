@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting Google Analytics for Angular"
+title: "Setting Google Analytics for Angular applications"
 subtitle: "Using tag manager"
 date: 2019-02-12 16:00
 author: Yaser Adel Mehraban
