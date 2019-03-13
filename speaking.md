@@ -9,9 +9,11 @@ Here are some of the events he has or will talk at:
 
 
 ### Future
-* <i class="fa fa-calendar-o"></i> 26 Feb - 1 March 2019, [NDC Porto](https://ndcporto.com/), ***Need for speed 8, performance tuning of your web application***
+* <i class="fa fa-calendar-o"></i> June 17 - 21 2019, [NDC Oslo](https://ndcoslo.com/talk/web-components-and-micro-apps-the-web-technologies-peacekeeper/), ***Web assembly, post MVP future***
+* <i class="fa fa-calendar-o"></i> May 13 - 17 2019, [VoxxedDays Australia Tour](https://australia.voxxeddays.com/), ***Web assembly, post MVP future***
 
 ### Past
+* <i class="fa fa-calendar-o"></i> 26 Feb - 1 March 2019, [NDC Porto](https://ndcporto.com/), ***Need for speed 8, performance tuning of your web application***
 * <i class="fa fa-calendar-o"></i> 11 December 2018, [Coder Academy](https://coderacademy.edu.au), ***Career development***
 * <i class="fa fa-calendar-o"></i> 18 October 2018, [VIC.Net Meetup](https://www.meetup.com/en-AU/VIC-NET-Meetup/events/nscblpyxnbxb//), ***Need for speed 8, performance tuning of your web application***
 * <i class="fa fa-calendar-o"></i> 17-21 September 2018, [NDC Sydney](https://ndcsydney.com/talk/need-for-speed-8-performance-tuning-of-your-web-application/), ***Need for speed 8, performance tuning of your web application***. [Watch it 👀](https://yas.fyi/2AJ9Z5Q)

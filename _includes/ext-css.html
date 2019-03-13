@@ -1,7 +1,21 @@
 {% if include.css.sri %}
-  <link href="{{ include.css.href }}" rel="preload" as="style" onload="this.rel='stylesheet'" integrity="{{ include.css.sri }}" crossorigin="anonymous">
+  <link href="{{ include.css.href }}" rel="preload" as="style" 
+    onload="this.rel='stylesheet'" 
+    onerror="this.rel='stylesheet'" 
+    integrity="{{ include.css.sri }}" crossorigin="anonymous">
+  <link href="{{ include.css.href }}" 
+  integrity="{{ include.css.sri }}" crossorigin="anonymous"
+    rel="stylesheet" >
 {% elsif include.css.href %}
-  <link rel="preload" as="style" onload="this.rel='stylesheet'" href="{{ include.css.href }}" />
+  <link rel="preload" as="style" 
+    onload="this.rel='stylesheet'" 
+    onerror="this.rel='stylesheet'" 
+    href="{{ include.css.href }}" />
+    <link href="{{ include.css.href }}" rel="stylesheet" >
 {% else %}
-  <link rel="preload" as="style" onload="this.rel='stylesheet'" href="{{ include.css }}" />
+  <link rel="preload" as="style" 
+    onload="this.rel='stylesheet'" 
+    onerror="this.rel='stylesheet'" 
+    href="{{ include.css }}" />
+    <link href="{{ include.css }}" rel="stylesheet" >
 {% endif %}
