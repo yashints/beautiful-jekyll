@@ -9,7 +9,7 @@ Here are some of the events he has or will talk at:
 
 
 ### Future
-* <i class="fa fa-calendar-o"></i> June 17 - 21 2019, [NDC Oslo](https://ndcoslo.com/talk/web-components-and-micro-apps-the-web-technologies-peacekeeper/), ***Web assembly, post MVP future***
+* <i class="fa fa-calendar-o"></i> June 17 - 21 2019, [NDC Oslo](https://ndcoslo.com/talk/web-components-and-micro-apps-the-web-technologies-peacekeeper/), ***Micro apps and web components, the web technologies peacemaker***
 * <i class="fa fa-calendar-o"></i> May 13 - 17 2019, [VoxxedDays Australia Tour](https://australia.voxxeddays.com/), ***Web assembly, post MVP future***
 
 ### Past
