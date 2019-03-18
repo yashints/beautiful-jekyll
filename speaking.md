@@ -10,7 +10,8 @@ Here are some of the events he has or will talk at:
 
 ### Future
 * <i class="fa fa-calendar-o"></i> June 17 - 21 2019, [NDC Oslo](https://ndcoslo.com/talk/web-components-and-micro-apps-the-web-technologies-peacekeeper/), ***Micro apps and web components, the web technologies peacemaker***
-* <i class="fa fa-calendar-o"></i> May 13 - 17 2019, [VoxxedDays Australia Tour](https://australia.voxxeddays.com/), ***Web assembly, post MVP future***
+* <i class="fa fa-calendar-o"></i> May 17 2019, [VoxxedDays Australia Sydney](https://australia.voxxeddays.com/), ***Web assembly, post MVP future***
+* <i class="fa fa-calendar-o"></i> May 14 2019, [VoxxedDays Australia Melbourne](https://australia.voxxeddays.com/), ***Web assembly, post MVP future***
 
 ### Past
 * <i class="fa fa-calendar-o"></i> 26 Feb - 1 March 2019, [NDC Porto](https://ndcporto.com/), ***Need for speed 8, performance tuning of your web application***

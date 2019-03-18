@@ -25,18 +25,20 @@ css: "/css/aboutme.css"
 
 ## <a id="more"></a>Who am I?
 
-This man whose name only looks hard to say, is a creative web developer, consultant, blogger, hiker and father. He is a puppet master of code, bending the backend code to his will in elegant and ingenious fashion.
-He is a die hard fan but don't hold this against him because, well, he is still a team player and , umm, poutine.
+Although it doesn’t look like it, Yaser is an almond croissant addict cleverly disguised as a successful web developer. Since it was relatively clear early on that it would be slightly more than difficult to make a living out of thin air and sitting in a café eating a croissant and drinking a cappuccino, he’s focused his energy on the web, which happily has proven itself to be a wonderful decision.
+
+Apart from that, he has a hunger for public speaking, hence a number of talks in big conferences like NDC and Voxxed Days around the world under his belt.
+
 
 ### <a id="background"></a> A bit of background
 
-I was born in Iran and started programming since I was 15. It has always been a fun activity for me and so I've tried to do my best to keep the code quality high and follow the best practices while having fun. 
+Yaser started his career as a web developer fresh out of uni. After spending more than 10 years coding, he has shamelessly experienced asp classic, php, Asp.Net Web Forms, Angular, React, Vue, and many others.
 
-I migrated to Australia to improve my lifestyle and being close to opportunities I simply didn't have in the past. I maintain a blog and speak at conferences occasionally.
+His true passion is to make web a better place for everyone, and so he spends most of his time blogging, speaking, and reading about web.
 
 ### Hobbies
 
-Apart from drinking lots of coffee and coding, I write blog posts, speak at meetups and conferences, go hiking, play guitar, run occasionally and recently babysit 😊 (a lot).
+Apart from drinking lots of coffee and almond croissant, he loves coding, writing blog posts, speaking at meetups and conferences, hiking, playing guitar, and occasionally going to gym.
 
 <div class="fun-facts center" id="facts">
   <div class="pattern"></div>
