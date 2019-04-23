@@ -1,3 +1,18 @@
-http://blog.mehraban.com.au/* https://mehraban.com.au/:splat 301!
-https://blog.mehraban.com.au/* https://mehraban.com.au/:splat 301!
-https://yashints.netlify.com/* https://mehraban.com.au/:splat 301!
+/aboutme/ https://yashints.dev/about 301!
+/speaking https://yashints.dev/speaking 301!
+/contactme https://yashints.dev/contact 301!
+/front-end-news-skill https://yashints.dev/front-end-news-skill 301!
+/search https://yashints.dev 301!
+/page2 https://yashints.dev/blog/2 301!
+/page3 https://yashints.dev/blog/3 301!
+/page4 https://yashints.dev/blog/4 301!
+/page5 https://yashints.dev/blog/5 301!
+/page6 https://yashints.dev/blog/6 301!
+/page7 https://yashints.dev/blog/7 301!
+/page8 https://yashints.dev/blog/8 301!
+/page9 https://yashints.dev/blog/9 301!
+/page10 https://yashints.dev/blog/10 301!
+
+/ https://yashints.dev 301!
+
+/:year/:month/:date/:slug https://yashints.dev/blog/:year/:month/:date/:slug 301!
